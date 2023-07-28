@@ -1,0 +1,14 @@
+# Pantasya
+
+=> index.gmi Pantasya Online Computer School
+
+=> class_schedule.gmi Class Schedule
+
+=> attendance.gmi Attendance
+
+=> student_info.gmi Student Info
+
+=> syllabus.gmi Subjects Available
+
+=> school_rules.gmi School Rules
+

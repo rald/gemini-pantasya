@@ -1,0 +1,8 @@
+# Pantasya
+
+=> index.gmi Pantasya Online Computer School
+
+### Attendance 2023
+
+=> attendance_2023_aug.gmi August
+=> attendance_2023_jul.gmi July

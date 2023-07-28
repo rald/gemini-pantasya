@@ -1,0 +1,13 @@
+X: 1
+T: Itsy Bitsy Spider
+M: 4/4
+L: 1/4
+K: C Major
+%%MIDI program 10
+D/2 G G/2 G A/2 .B B
+B/2 A G/2 A B/2 .G2
+.B B c/2 .d .d
+c B/2 c d/2 .B2
+.G G A/2 .B .B A G/2 A B/2 .G
+D D/2 G G/2 G A/2
+.B B B/2 A G/2 A B/2 .G Z

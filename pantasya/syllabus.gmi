@@ -1,0 +1,15 @@
+# Pantasya
+
+=> index.gmi Pantasya Online Computer School
+
+### Subjects Available
+
+C
+C++
+C#
+Data Structures and Algorithms
+Java
+Linux
+Python
+Visual Basic dot NET
+Web Technologies
